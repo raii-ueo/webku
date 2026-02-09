@@ -1,6 +1,6 @@
 body{
-    background:#f3f3f3;
-    color:#333;
+    background:#F9D0CE;
+    color:#F3C3FA;
     width:100%;
     font-family:sans-serif;
     margin:0 auto;
@@ -11,6 +11,7 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#417aa8;
-    color:#fff;
+    background:#C3C9FA;
+    color:#C3E8FA;
 }
+
